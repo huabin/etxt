@@ -7,4 +7,8 @@ The file extension is `.etxt`, representing `Encrypted Text`
 
 ### How does it work
 
+- Rule
+
+- Example
+
 ### Changelog
